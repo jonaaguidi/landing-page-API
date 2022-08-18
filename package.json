@@ -1,0 +1,24 @@
+{
+  "name": "landing-page-api",
+  "version": "1.0.0",
+  "description": "This is a landing page that was made as a practice to use the concepts of Asynchronism with JavaScript (ASYNC-AWAIT / PROMISES)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonaaguidi/landing-page-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonaaguidi/landing-page-API/issues"
+  },
+  "homepage": "https://github.com/jonaaguidi/landing-page-API#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
